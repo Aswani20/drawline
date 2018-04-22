@@ -1,0 +1,8 @@
+C:\Users\HP\Documents\Visual Studio 2008\Projects\radiobutton\radiobutton\bin\Debug\radiobutton.exe
+C:\Users\HP\Documents\Visual Studio 2008\Projects\radiobutton\radiobutton\bin\Debug\radiobutton.pdb
+C:\Users\HP\Documents\Visual Studio 2008\Projects\radiobutton\radiobutton\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\HP\Documents\Visual Studio 2008\Projects\radiobutton\radiobutton\obj\Debug\radiobutton.Form1.resources
+C:\Users\HP\Documents\Visual Studio 2008\Projects\radiobutton\radiobutton\obj\Debug\radiobutton.Properties.Resources.resources
+C:\Users\HP\Documents\Visual Studio 2008\Projects\radiobutton\radiobutton\obj\Debug\radiobutton.csproj.GenerateResource.Cache
+C:\Users\HP\Documents\Visual Studio 2008\Projects\radiobutton\radiobutton\obj\Debug\radiobutton.exe
+C:\Users\HP\Documents\Visual Studio 2008\Projects\radiobutton\radiobutton\obj\Debug\radiobutton.pdb
